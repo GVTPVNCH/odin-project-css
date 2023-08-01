@@ -166,7 +166,7 @@ footer{
 
 @media screen and (max-width: 650px){
     header{
-        height: 60vh;
+        height: 600px;
     }
     .header-hero{
         flex-direction: column;
